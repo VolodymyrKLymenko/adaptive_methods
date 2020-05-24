@@ -1,0 +1,233 @@
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\bin\Debug\ChMMF.exe.config
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\obj\Debug\ChMMF.csprojResolveAssemblyReference.cache
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\obj\Debug\Graphic.baml
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\obj\Debug\MainWindow.baml
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\obj\Debug\Graphic.g.cs
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\obj\Debug\MainWindow.g.cs
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\obj\Debug\App.g.cs
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\obj\Debug\ChMMF_MarkupCompile.cache
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\obj\Debug\ChMMF.g.resources
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\obj\Debug\ChMMF.Properties.Resources.resources
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.GenerateResource.Cache
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\bin\Debug\ChMMF.exe
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\bin\Debug\ChMMF.pdb
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\obj\Debug\ChMMF.exe
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\obj\Debug\ChMMF.pdb
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\bin\Debug\Parser.dll
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.dll
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.dll
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.xml
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.xml
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.xml
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.xml
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF\ChMMF\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF – копія\ChMMF\bin\Debug\ChMMF.exe.config
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF – копія\ChMMF\obj\Debug\ChMMF.exe
+C:\Users\Андрій\Documents\Visual Studio 2012\Projects\ChMMF – копія\ChMMF\obj\Debug\ChMMF.pdb
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\bin\Debug\ChMMF.exe.config
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\obj\Debug\ChMMF.exe
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\obj\Debug\ChMMF.pdb
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\bin\Debug\ChMMF.exe
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\bin\Debug\ChMMF.pdb
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.dll
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.dll
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\bin\Debug\Parser.dll
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.xml
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.xml
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.xml
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.xml
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\obj\Debug\ChMMF.csprojResolveAssemblyReference.cache
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\obj\Debug\Graphic.baml
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\obj\Debug\MainWindow.baml
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\obj\Debug\Graphic.g.cs
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\obj\Debug\MainWindow.g.cs
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\obj\Debug\App.g.cs
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\obj\Debug\ChMMF_MarkupCompile.cache
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\obj\Debug\ChMMF.g.resources
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\obj\Debug\ChMMF.Properties.Resources.resources
+C:\Users\Андрій\Documents\Visual Studio 2013\Projects\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.GenerateResource.Cache
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\bin\Debug\ChMMF.exe.config
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\obj\Debug\ChMMF.exe
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\obj\Debug\ChMMF.pdb
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\bin\Debug\ChMMF.exe
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\bin\Debug\ChMMF.pdb
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.dll
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.dll
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.dll
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.dll
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\bin\Debug\Parser.dll
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.xml
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.xml
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.xml
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.xml
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\obj\Debug\ChMMF.csprojResolveAssemblyReference.cache
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\obj\Debug\Graphic.baml
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\obj\Debug\MainWindow.baml
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\obj\Debug\Graphic.g.cs
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\obj\Debug\MainWindow.g.cs
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\obj\Debug\App.g.cs
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\obj\Debug\ChMMF_MarkupCompile.cache
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\obj\Debug\ChMMF.g.resources
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\obj\Debug\ChMMF.Properties.Resources.resources
+G:\Навчання\5 курс\ЧММФ (Шинкаренко)\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.GenerateResource.Cache
+C:\Users\maksy\Desktop\ChMMF\ChMMF\bin\Debug\ChMMF.exe.config
+C:\Users\maksy\Desktop\ChMMF\ChMMF\bin\Debug\ChMMF.exe
+C:\Users\maksy\Desktop\ChMMF\ChMMF\bin\Debug\ChMMF.pdb
+C:\Users\maksy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.dll
+C:\Users\maksy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.dll
+C:\Users\maksy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.dll
+C:\Users\maksy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\maksy\Desktop\ChMMF\ChMMF\bin\Debug\Parser.dll
+C:\Users\maksy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.xml
+C:\Users\maksy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.xml
+C:\Users\maksy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.xml
+C:\Users\maksy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.xml
+C:\Users\maksy\Desktop\ChMMF\ChMMF\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\maksy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.csprojResolveAssemblyReference.cache
+C:\Users\maksy\Desktop\ChMMF\ChMMF\obj\Debug\Graphic.baml
+C:\Users\maksy\Desktop\ChMMF\ChMMF\obj\Debug\MainWindow.baml
+C:\Users\maksy\Desktop\ChMMF\ChMMF\obj\Debug\Graphic.g.cs
+C:\Users\maksy\Desktop\ChMMF\ChMMF\obj\Debug\MainWindow.g.cs
+C:\Users\maksy\Desktop\ChMMF\ChMMF\obj\Debug\App.g.cs
+C:\Users\maksy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF_MarkupCompile.cache
+C:\Users\maksy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.g.resources
+C:\Users\maksy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.Properties.Resources.resources
+C:\Users\maksy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.GenerateResource.Cache
+C:\Users\maksy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.exe
+C:\Users\maksy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.pdb
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\bin\Debug\ChMMF.exe.config
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\obj\Debug\ChMMF.exe
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\obj\Debug\ChMMF.pdb
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\bin\Debug\ChMMF.exe
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\bin\Debug\ChMMF.pdb
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.dll
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.dll
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.dll
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\bin\Debug\Parser.dll
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.xml
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.xml
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.xml
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.xml
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\obj\Debug\ChMMF.csprojResolveAssemblyReference.cache
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\obj\Debug\Graphic.baml
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\obj\Debug\MainWindow.baml
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\obj\Debug\Graphic.g.cs
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\obj\Debug\MainWindow.g.cs
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\obj\Debug\App.g.cs
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\obj\Debug\ChMMF_MarkupCompile.cache
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\obj\Debug\ChMMF.g.resources
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\obj\Debug\ChMMF.Properties.Resources.resources
+C:\Users\maksy\Desktop\Краткая история UML _ Язык моделирования UML _ Языки программирования Pascal и Delphi_files\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.GenerateResource.Cache
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\bin\Debug\ChMMF.exe.config
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\bin\Debug\ChMMF.exe
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\bin\Debug\ChMMF.pdb
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.dll
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.dll
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.dll
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\bin\Debug\Parser.dll
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.xml
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.xml
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.xml
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.xml
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.csprojResolveAssemblyReference.cache
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\Graphic.baml
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\MainWindow.baml
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\Graphic.g.cs
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\MainWindow.g.cs
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\App.g.cs
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF_MarkupCompile.cache
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.g.resources
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.Properties.Resources.resources
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.GenerateResource.cache
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.CoreCompileInputs.cache
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.CopyComplete
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.exe
+C:\Users\sofiy\Desktop\ChMMF\ChMMF\obj\Debug\ChMMF.pdb
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\ChMMF.exe.config
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\ChMMF.exe
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\ChMMF.pdb
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.dll
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.dll
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.dll
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.dll
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\Parser.dll
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.xml
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.xml
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.xml
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.xml
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.csprojResolveAssemblyReference.cache
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\Graphic.baml
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\MainWindow.baml
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\Graphic.g.cs
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\MainWindow.g.cs
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\App.g.cs
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF_MarkupCompile.cache
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.g.resources
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.Properties.Resources.resources
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.GenerateResource.cache
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.CoreCompileInputs.cache
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.CopyComplete
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.exe
+D:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.pdb
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\ChMMF.exe.config
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\ChMMF.exe
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\ChMMF.pdb
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.dll
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.dll
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.dll
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.dll
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\Parser.dll
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.xml
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.xml
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.xml
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.xml
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.csprojAssemblyReference.cache
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\Graphic.baml
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\MainWindow.baml
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\Graphic.g.cs
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\MainWindow.g.cs
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\App.g.cs
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF_MarkupCompile.cache
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.g.resources
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.Properties.Resources.resources
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.GenerateResource.cache
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.CopyComplete
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.exe
+G:\Education\University\3_Semester\second half\ЧММФ\reports\Task_2\ChMMF\ChMMF\obj\Debug\ChMMF.pdb
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\bin\Debug\ChMMF.exe.config
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\bin\Debug\ChMMF.exe
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\bin\Debug\ChMMF.pdb
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.dll
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.dll
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.dll
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.dll
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\bin\Debug\Parser.dll
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.xml
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Coastline.xml
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Controls.xml
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\bin\Debug\DynamicDataDisplay.Maps.xml
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\obj\Debug\Graphic.baml
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\obj\Debug\MainWindow.baml
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\obj\Debug\Graphic.g.cs
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\obj\Debug\MainWindow.g.cs
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\obj\Debug\App.g.cs
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\obj\Debug\ChMMF_MarkupCompile.cache
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\obj\Debug\ChMMF.g.resources
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\obj\Debug\ChMMF.Properties.Resources.resources
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.GenerateResource.cache
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\obj\Debug\ChMMF.csproj.CopyComplete
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\obj\Debug\ChMMF.exe
+G:\Education\University\5_semester\second half\Методи наукових досліджень\ChMMF\ChMMF\obj\Debug\ChMMF.pdb
